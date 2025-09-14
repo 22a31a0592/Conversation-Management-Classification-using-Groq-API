@@ -1,0 +1,2 @@
+# Conversation-Management-Classification-using-Groq-API
+This project develops an intelligent conversational AI using Groq's high-performance language models and OpenAI-compatible APIs. It manages ongoing dialogues with customizable truncation and periodic summarization while extracting structured user data via JSON schema validation, showcasing scalable, framework-free AI with real-time responsiveness.
